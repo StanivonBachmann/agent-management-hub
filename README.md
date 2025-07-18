@@ -28,7 +28,7 @@ Free agent management platform and orchestration tools for AI workflows. This re
 - **Description**: Multi-agent conversation framework
 - **Cost**: Free open-source
 - **Features**: Conversational agents, code execution, human-in-the-loop
-- **Setup**: `pip install pyautogen`
+- **Setup**: `pip install ag2`
 
 ### 4. Rasa
 - **Description**: Conversational AI platform
